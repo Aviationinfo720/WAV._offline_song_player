@@ -1,17 +1,15 @@
 I made this becuase i was bored! i hope this helps youre boredom too!
 
 IMPORTANT NOTES:
-1) Please only insert .wav files in the songs file only as the python code can work with .wav files!
-2) Please make sure that the file name is written in all caps to make the code run.
+1) Please make sure that the file name is written in all caps to make the code run.
    It takes the input and automatically capitalise every word for you!
-3) Most instructions are based on a Windows computer keyboard, so if you are a MACOS user or having a totally different keyboard layout
+2) Most instructions are based on a Windows computer keyboard, so if you are a MACOS user or having a totally different keyboard layout
    you may need to take some time googling the keybinds for mac or you keyboard layout (i dont think you need to google
    anything becuase the controlls are just simple space bar and single word inputs but you may need to see how to copy a file path!)  
 
 USER INSTRUCTIONS:
 1) As usual the space bar covers both the play and pause button!
-2) When you open (Downloaded songs library.py), go to line 8 and change the path to the song file path which came with the Download.
-3) To add songs, put the song files inside the "songs" file. The code will automatically pick the song up from the file when runned!
+2) To add songs, make a folder containing all the wav. files (If you have you can skip it) then go to Downloaded songs library.py under downloaded songs library, go to line 8 and change the path to the song file path which came with the Download.
 4) Sit back and relax, do not try to type or play any game which involves the space bar as the song will pause and play even tough
    the window is hidden.
 
