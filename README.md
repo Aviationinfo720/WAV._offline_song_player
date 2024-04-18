@@ -16,8 +16,7 @@ USER INSTRUCTIONS:
 5) Optional: If you want to make the wav player so that it will say in the prompt wether the song is paused or playing, go to line 7
    and put "True" instead of "False"!
 
-And last thing, there are 2 songs included in this github project to test! Enjoy the downloaded songs player! You can use this code 
-anywhere with downloaded songs wether you are at home, away or offline!
+Enjoy the downloaded songs player! You can use this code anywhere with downloaded songs wether you are at home, away or offline!
 
 (but still, i would recomend you the built in music player in your device or spotify premium (if you have) to play songs offline!😅)
 
